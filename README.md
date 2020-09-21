@@ -1,4 +1,18 @@
 # LIPPIA API Deezer endpoints
+Testing de peticiones GET:
++ Genre: https://api.deezer.com/genre/121/image
++ Albums: https://www.deezer.com/artist/1
++ Radio: https://api.deezer.com/radio/12/image
+
+## Genre
+Muestra mediante selección de un ID en especifico, el tipo música.
+Posee 26 géneros en total.
+
+## Albums
+Selecciona mediante ID el tipo de albúm del artista.
+
+## Radio
+Muestra el tipo de estación de música y sus canciones alternandose.
 
 ## System Requirements : 
 + git client: https://www.atlassian.com/git/tutorials/install-git 
