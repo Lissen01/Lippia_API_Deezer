@@ -1,4 +1,4 @@
-# LIPPIA API Example Project
+# LIPPIA API Deezer endpoints
 
 ## System Requirements : 
 + git client: https://www.atlassian.com/git/tutorials/install-git 
